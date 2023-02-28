@@ -1,0 +1,8 @@
+C:\Users\henry\source\repos\PR2\ZAD4\bin\Debug\ZAD4.exe.config
+C:\Users\henry\source\repos\PR2\ZAD4\bin\Debug\ZAD4.exe
+C:\Users\henry\source\repos\PR2\ZAD4\bin\Debug\ZAD4.pdb
+C:\Users\henry\source\repos\PR2\ZAD4\obj\Debug\ZAD4.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\PR2\ZAD4\obj\Debug\ZAD4.csproj.SuggestedBindingRedirects.cache
+C:\Users\henry\source\repos\PR2\ZAD4\obj\Debug\ZAD4.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\PR2\ZAD4\obj\Debug\ZAD4.exe
+C:\Users\henry\source\repos\PR2\ZAD4\obj\Debug\ZAD4.pdb
