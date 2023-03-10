@@ -1,0 +1,8 @@
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\bin\Debug\ZAD3.exe.config
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\bin\Debug\ZAD3.exe
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\bin\Debug\ZAD3.pdb
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\obj\Debug\ZAD3.csproj.AssemblyReference.cache
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\obj\Debug\ZAD3.csproj.SuggestedBindingRedirects.cache
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\obj\Debug\ZAD3.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\obj\Debug\ZAD3.exe
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR5\ZAD3\obj\Debug\ZAD3.pdb
