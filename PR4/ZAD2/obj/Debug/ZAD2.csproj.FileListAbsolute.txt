@@ -1,8 +1,0 @@
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\obj\Debug\ZAD2.csproj.AssemblyReference.cache
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\obj\Debug\ZAD2.csproj.SuggestedBindingRedirects.cache
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\obj\Debug\ZAD2.csproj.CoreCompileInputs.cache
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\bin\Debug\ZAD2.exe.config
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\bin\Debug\ZAD2.exe
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\bin\Debug\ZAD2.pdb
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\obj\Debug\ZAD2.exe
-C:\Users\henry\OneDrive\Рабочий стол\Practice\PR4\ZAD2\obj\Debug\ZAD2.pdb
