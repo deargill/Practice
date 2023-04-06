@@ -1,0 +1,15 @@
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.csproj.AssemblyReference.cache
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.AssemblyInfoInputs.cache
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.AssemblyInfo.cs
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\bin\Debug\net6.0\ZAD2.exe
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\bin\Debug\net6.0\ZAD2.deps.json
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\bin\Debug\net6.0\ZAD2.runtimeconfig.json
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\bin\Debug\net6.0\ZAD2.dll
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\bin\Debug\net6.0\ZAD2.pdb
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.dll
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\refint\ZAD2.dll
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.pdb
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ZAD2.genruntimeconfig.cache
+C:\Users\henry\OneDrive\Рабочий стол\Practice\PR10\ZAD2\obj\Debug\net6.0\ref\ZAD2.dll
